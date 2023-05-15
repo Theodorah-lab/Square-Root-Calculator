@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(to bottom right, rgb(85, 64, 85), rgb(229, 188, 194));
+    
+  }
+
+h1
+{
+  font-family: 'Courier New', Courier, monospace;
+}
+*
+{
+  text-align: center;
+  font-size: 45px;
+}
+
+label
+{ 
+  font-size: 85px; 
+  vertical-align: middle; 
+}
+
+input
+{
+  width: 3cm;
+  margin-bottom: 175px;
+  margin-left: 5px
+}
